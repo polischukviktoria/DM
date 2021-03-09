@@ -4,7 +4,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 41,technician,married,secondary,no,1270,yes,no,unknown,5,may,1389,1,-1,0,unknown,yes
 55,services,married,secondary,no,2476,yes,no,unknown,5,may,579,1,-1,0,unknown,yes
 54,admin.,married,tertiary,no,184,no,no,unknown,5,may,673,2,-1,0,unknown,yes
-42,,single,tertiary,no,0,yes,yes,unknown,5,may,562,2,-1,0,unknown,yes
+42,management,single,tertiary,no,0,yes,yes,unknown,5,may,562,2,-1,0,unknown,yes
 56,management,married,tertiary,no,830,yes,yes,unknown,6,may,1201,1,-1,0,unknown,yes
 60,retired,divorced,secondary,no,545,yes,no,unknown,6,may,1030,1,-1,0,unknown,yes
 37,technician,married,secondary,no,1,yes,no,unknown,6,may,608,1,-1,0,unknown,yes
